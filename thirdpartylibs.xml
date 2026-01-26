@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraries>
+  <library>
+    <location>thirdparty/swiper/swiper-bundle.min.js</location>
+    <name>Swiper</name>
+    <version>11.0.0</version>
+    <license>MIT</license>
+    <licenseversion>3</licenseversion>
+  </library>
+  <library>
+    <location>thirdparty/swiper/swiper-bundle.min.css</location>
+    <name>Swiper CSS</name>
+    <version>11.0.0</version>
+    <license>MIT</license>
+    <licenseversion>3</licenseversion>
+  </library>
+  <library>
+    <location>thirdparty/bootstrap-icons/bootstrap-icons.css</location>
+    <name>Bootstrap Icons</name>
+    <version>1.11.3</version>
+    <license>MIT</license>
+    <licenseversion>3</licenseversion>
+  </library>
+</libraries>
