@@ -412,7 +412,3 @@ Contributions are welcome! Areas for improvement:
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Moodle Mustache Templates](https://docs.moodle.org/dev/Templates)
 
----
-
-**Copyright © 2024**  
-**License**: GNU GPL v3 or later
